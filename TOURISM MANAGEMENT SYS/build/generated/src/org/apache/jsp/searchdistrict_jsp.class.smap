@@ -1,0 +1,20 @@
+SMAP
+searchdistrict_jsp.java
+JSP
+*S JSP
+*F
++ 0 searchdistrict.jsp
+searchdistrict.jsp
+*L
+1,17:45
+18,3:63
+20,20:66
+40,7:87
+46,13:94
+59:107,3
+60:110
+61,3:111,3
+64,6:120
+70:126,3
+71,3:129
+*E
